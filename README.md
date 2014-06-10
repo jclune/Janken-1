@@ -4,7 +4,7 @@ Janken-1
 Simple Rock Paper Scissors in Java
 
 
-To install:
+<b>To install:</b>
 
 git clone [git url]
 
